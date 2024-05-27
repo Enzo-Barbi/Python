@@ -1,4 +1,4 @@
-# Selenium projects
+# Selenium projects <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium Logo" width="35"/>
 
 here will be a few projects with selenium.
 
