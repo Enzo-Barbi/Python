@@ -6,7 +6,7 @@ first i need to say im using flask and Postman to run my scripts.
 
 # Scripts
 
-|Name|Context|Link|
-|---|---|---|
-|google| The objective about this script is open de googles page, search into a navigator bar, type "Python" and return the 5 firsts links| [script](https://github.com/Enzo-Barbi/Python/tree/main/Selenium/google)|
-|ibge| This script opens de navigator acess the [ibge's](https://cidades.ibge.gov.br) site and search for Santa Catarina [state](https://cidades.ibge.gov.br/brasil/sc/panorama) and returns the Population in the last census [2022].| [script](https://github.com/Enzo-Barbi/Python/tree/main/Selenium/ibge) |
+|Name|Context|Link|Type |
+|---|---|---|----|
+|google| The objective about this script is open de googles page, search into a navigator bar, type "Python" and return the 5 firsts links| [script](https://github.com/Enzo-Barbi/Python/tree/main/Selenium/google)| POST |
+|ibge| This script opens de navigator acess the [ibge's](https://cidades.ibge.gov.br) site and search for Santa Catarina [state](https://cidades.ibge.gov.br/brasil/sc/panorama) and returns the Population in the last census [2022].| [script](https://github.com/Enzo-Barbi/Python/tree/main/Selenium/ibge) | GET |
